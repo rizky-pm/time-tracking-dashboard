@@ -31,7 +31,7 @@ Users should be able to:
 ### Links
 
 -   Solution URL: [Github](https://github.com/rizky-pm/time-tracking-dashboard)
--   Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+-   Live Site URL: [Github Pages](https://github.com/rizky-pm/time-tracking-dashboard/settings/pages)
 
 ## My process
 
